@@ -18,3 +18,4 @@ J:\RiderProjects\UnrealPakHelper\obj\Debug\Themes\Generic.baml
 J:\RiderProjects\UnrealPakHelper\obj\Debug\UnrealPakHelper.csproj.SuggestedBindingRedirects.cache
 J:\RiderProjects\UnrealPakHelper\obj\Debug\App.baml
 J:\RiderProjects\UnrealPakHelper\obj\Debug\Themes\ScrollViewerDictionary.baml
+J:\RiderProjects\UnrealPakHelper\obj\Debug\UnrealPakHelper_Content.g.cs
